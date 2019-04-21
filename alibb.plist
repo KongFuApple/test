@@ -35,7 +35,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>td9866.com</string>        				<!-- 游戏的bundleId, 比如com.linxinfa.mygame -->
+                <string>wotd9866.com</string>        				<!-- 游戏的bundleId, 比如com.linxinfa.mygame -->
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
